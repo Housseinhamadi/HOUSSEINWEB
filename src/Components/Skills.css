@@ -1,0 +1,28 @@
+.topmar {
+  margin-top: 50px;
+}
+hr.new5 {
+  border: 10px solid lightblue;
+  border-radius: 5px;
+}
+.toptop {
+  margin-top: 100px;
+
+}
+
+.broderr {
+  border: 5px solid lightblue;
+  height: 100px;
+  color: black;
+  font-size: 20px;
+
+}
+.bodySc {
+  min-height: 200px;
+  max-height: 200px;
+  overflow-y: scroll;
+}
+.endofsection {
+  margin-top: 100px;
+  border: 1px solid gray;
+}

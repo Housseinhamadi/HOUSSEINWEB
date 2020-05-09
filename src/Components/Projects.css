@@ -1,0 +1,15 @@
+.proPanels {
+  min-height: 200px;
+  max-height: 200px;
+  overflow-y: scroll;
+}
+.textsize {
+  font-size: 20px;
+  color: darkblue;
+}
+.backGray {
+  background-color: #f6f6f6;
+}
+.garycolo {
+  color: 	#606060 ;
+}

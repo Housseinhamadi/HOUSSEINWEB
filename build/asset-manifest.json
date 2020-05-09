@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f290100.chunk.css",
+    "main.js": "/static/js/main.2261878d.chunk.js",
+    "main.js.map": "/static/js/main.2261878d.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.e30947d8.chunk.js": "/static/js/2.e30947d8.chunk.js",
+    "static/js/2.e30947d8.chunk.js.map": "/static/js/2.e30947d8.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d973d7fbf2f3a55589b8588d97136da5.js": "/precache-manifest.d973d7fbf2f3a55589b8588d97136da5.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.6f290100.chunk.css.map": "/static/css/main.6f290100.chunk.css.map",
+    "static/media/AWSCer.jpg": "/static/media/AWSCer.648549f0.jpg",
+    "static/media/UGA.jpg": "/static/media/UGA.b1650990.jpg",
+    "static/media/android.png": "/static/media/android.786c27fd.png",
+    "static/media/asp.png": "/static/media/asp.b35fe98b.png",
+    "static/media/certificateCloudComputing.png": "/static/media/certificateCloudComputing.45fe0f20.png",
+    "static/media/cisco.jpeg": "/static/media/cisco.561ed78c.jpeg",
+    "static/media/coursera.jpg": "/static/media/coursera.5680605f.jpg",
+    "static/media/css.png": "/static/media/css.a16dcd89.png",
+    "static/media/english.png": "/static/media/english.584df29a.png",
+    "static/media/git.png": "/static/media/git.8bf4b05e.png",
+    "static/media/html.jpg": "/static/media/html.f0fa980d.jpg",
+    "static/media/js.png": "/static/media/js.36700bee.png",
+    "static/media/mysql.png": "/static/media/mysql.e91ce939.png",
+    "static/media/prolog.png": "/static/media/prolog.0bca85a4.png",
+    "static/media/python.jpg": "/static/media/python.4f9b96d8.jpg",
+    "static/media/react.png": "/static/media/react.360dcf9d.png",
+    "static/media/salman.jpg": "/static/media/salman.cbeb9ba5.jpg"
+  }
+}

@@ -1,0 +1,46 @@
+.bg-1 {
+  background-color: #607D8B; /* Green */
+  color: #ffffff;
+}
+.bg-2 {
+  background-color: #474e5d; /* Dark Blue */
+  color: #ffffff;
+}
+.bg-3 {
+  background-color: #ffffff; /* White */
+  color: #555555;
+}
+.container-fluid {
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+.bg-grey {
+    background-color: #f6f6f6;
+}
+
+.logo-small {
+  color: #DC143C ;
+  font-size: 50px;
+}
+
+.logo {
+  color: #B22222;
+  font-size: 200px;
+}
+.getdown {
+  margin-top: 80px;
+}
+.vertical{
+  margin-top:55px;
+
+}
+.biggertext {
+  font-size: 20px
+}
+.marginRigh {
+  margin-right: 10px;
+}
+.doCV {
+  font-size: 20px;
+  color: darkblue;
+}

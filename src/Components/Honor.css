@@ -1,0 +1,12 @@
+.downMarg {
+  margin-bottom: 100px;
+}
+.thumbnail {
+  padding: 0 0 15px 0;
+  border: none;
+  border-radius: 0;
+}
+
+.thumbnail img {
+  margin-bottom: 10px;
+}
