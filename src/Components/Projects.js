@@ -69,7 +69,7 @@ class Projects extends React.Component {
                <div class="panel-body proPanels">
                  <p>software engineering<br />
                  Application qui permet aux tuteurs et aux étudiants de communiquer, dans laquelle les étudiants peuvent rechercher un enseignant
-                  comme sien et le tuteur peut trouver des étudiants, et cela en fonction du lieu, de l'année scolaire de l'étudiant et des matières.
+                  et le tuteur peut trouver des étudiants, et cela en fonction du lieu, l'année scolaire de l'étudiant et des matières.
                   Cette application est en cours d'exécution.
                  </p>
                </div>
@@ -126,7 +126,7 @@ class Projects extends React.Component {
                 <p>Projet de fin d’étude
                   C’est une application mobile.
                 Avec cette application, n'importe qui pourrait être en mesure de rechercher les travailleurs mécaniques
-                 les plus proches pour aider à résoudre les problèmes de la machine à conduire, le travailleur confirmera
+                 les plus proches pour aider à résoudre les problèmes des moyens de locomotion, le travailleur confirmera
                   l'appel et pourrait aller discuter avec le client.</p>
               </div>
               <div class="panel-footer">
@@ -143,7 +143,7 @@ class Projects extends React.Component {
 
               <div class="panel-body proPanels">
                 <p> web, angulaire, nids, base de données SQLite
-                Avec cette application l’utilisateur peut réserver un livre et tous les informations de chaque livre.</p>
+                Avec cette application l’utilisateur peut réserver un livre et toutes les informations de chaque livre.</p>
               </div>
               <div class="panel-footer">
                 See project
@@ -158,7 +158,9 @@ class Projects extends React.Component {
                </div>
                
                <div class="panel-body proPanels">
-                 <p> Data science (big data), anaconda, python.</p>
+                 <p> Data science (big data), anaconda, python.
+
+                 </p>
                </div>
                <div class="panel-footer">
                  see project
@@ -166,6 +168,38 @@ class Projects extends React.Component {
              </div>
              
         </div >
+        <div class="col-sm-2">
+               <div class="panel panel-default text-center">
+                 <div class="panel-heading">
+                   <b class="textsize">Système de conversion </b>
+                 </div>
+                 
+
+                 <div class="panel-body proPanels">
+                   <p>Système de conversion de signes sourds en lettres imprimée en utilisant un leapmotion (unité, C sharp).
+                     </p>
+                 </div>
+                 <div class="panel-footer">
+                   <a href="https://github.com/Housseinhamadi" target="_blank">See project</a>
+                 </div>
+               </div>
+             </div>
+             <div class="col-sm-2">
+               <div class="panel panel-default text-center">
+                 <div class="panel-heading">
+                   <b class="textsize">Reconnaissance vocal</b>
+                 </div>
+                 
+
+                 <div class="panel-body proPanels">
+                   <p>
+                   Java<br />Enregistrer sa voix sur l’ordinateur, la même personne pourra ensuite se reconnecter facilement pour se faire reconnaitre.</p>
+                 </div>
+                 <div class="panel-footer">
+                   <a href="https://github.com/Housseinhamadi" target="_blank">See project</a>
+                 </div>
+               </div>
+             </div>
       </div>
       </div>
     )

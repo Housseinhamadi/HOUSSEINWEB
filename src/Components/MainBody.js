@@ -2,10 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './MainBody.css'
 import Projects from "./Projects"
-
 import Skills from "./Skills"
 import WhoAmI from "./WhoAmI"
-
 import Houssein from "./houssein.jpg"
 import Paris8 from "./Images/Paris8.png"
 import LU from "./Images/LU.jpeg"
