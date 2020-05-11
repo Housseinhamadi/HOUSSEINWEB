@@ -19,7 +19,7 @@ class MainBody extends React.Component {
               <h1>HOUSSEIN HAMADI</h1>
               <img src={Houssein} class="img-circle" width="250px" height="250px"  /><br/><br/>
               <h3>Codage est la vie</h3><hr width="50%" />
-              <a href="https://hamadihousseincv.000webhostapp.com/HousseinHamadiCV.pdf" target="blacked" class="doCV" download>Pour Télécharger mon CV </a><hr width="50%" />
+              <a href="https://housseincv.000webhostapp.com/HousseinHamadiCV.pdf" target="blacked" class="doCV" download>Pour Télécharger mon CV </a><hr width="50%" />
             </div>
             <div class="col-sm-6 text-left vertical" >
             <br/><br/>
