@@ -24,13 +24,13 @@ class MainBody extends React.Component {
             <div class="col-sm-6 text-left vertical" >
               <br /><br />
               <h3>Université Paris 8 | Vincennes - Saint-Denis</h3>
-              <p><img src={Paris8} width="100px" height="100px" align="left" class="marginRigh" /> <b class="biggertext"> M2 Ingénierie en intelligence artificielle<br /> </b></p><br /><br /><br /><br /><br /><br />
+              <p><img src={Paris8} width="100px" height="100px" align="left" class="marginRigh" /> <b class="biggertext"> M2 Ingénierie en intelligence artificielle<br /> </b></p><br /><br />
               <hr width="100%" />
               <h3>Université Paris 8 | Vincennes - Saint-Denis</h3>
-              <p><img src={Paris8} width="100px" height="100px" align="left" class="marginRigh" /> <b class="biggertext"> Master 1 Informatique tronc commun<br /> </b></p><br /><br /><br /><br /><br /><br />
+              <p><img src={Paris8} width="100px" height="100px" align="left" class="marginRigh" /> <b class="biggertext"> Master 1 Informatique tronc commun<br /> </b></p><br /><br />
               <hr width="100%" />
               <h3>Université Libanaise</h3>
-              <p><img src={LU} width="100px" height="100px" align="left" class="marginRigh" /> <b class="biggertext"> licence informatique à l'universite libanaise </b></p><br /><br /><br /><br /><br /><br /><br /><br />
+              <p><img src={LU} width="100px" height="100px" align="left" class="marginRigh" /> <b class="biggertext"> licence informatique à l'universite libanaise </b></p><br /><br /><br /><br />
             </div>
           </div>
         </div>
