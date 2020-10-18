@@ -35,7 +35,7 @@ class Skills extends React.Component {
   render() {
     return (
       <div id="skills" class="container-fluid text-center bg-grey">
-        <h2>SKILLS</h2>
+        <h2>Compétences</h2>
         <br />
         <h3>Languages</h3><hr width="40%" class="new5" />
         <div class="row">

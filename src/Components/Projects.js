@@ -8,7 +8,7 @@ class Projects extends React.Component {
     return (
       <div class="container-fluid backGray" id="project">
         <div class="text-center">
-          <h2 class="garycolo">PROJECTS</h2><br /><br /><br />
+          <h2 class="garycolo">Projets</h2><br /><br /><br />
         </div>
         <div class="row">
           <div class="col-sm-2">
