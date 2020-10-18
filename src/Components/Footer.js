@@ -1,9 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './Footer.css';
+import ContactUs from './contactForm';
 
 class Footer extends React.Component {
-  render (){
+  render() {
     return (
       <footer id="contact" class="container-fluid bg-4 text-center">
         <div class="container text-center">
@@ -24,6 +25,8 @@ class Footer extends React.Component {
             </div>
           </div>
         </div>
+        <h3>Envoie-moi un email</h3>
+        <ContactUs />
       </footer>
     )
   }
