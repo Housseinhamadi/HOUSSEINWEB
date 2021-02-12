@@ -22,7 +22,7 @@ class Projects extends React.Component {
                   mettant des notes et des cours où les étudiants pourraient également vérifier leurs notes, commenter certains messages et soumettre des fichiers afin de les envoyer au tuteur.</p>
               </div>
               <div class="panel-footer">
-                <a href="https://github.com/Housseinhamadi" target="_blank">See project</a>
+                {/* <a href="https://github.com/Housseinhamadi" target="_blank">See project</a> */}
               </div>
             </div>
           </div>
@@ -40,7 +40,7 @@ class Projects extends React.Component {
 
               </div>
               <div class="panel-footer">
-                <a href="https://github.com/Housseinhamadi" target="_blank">See project</a>
+                {/* <a href="https://github.com/Housseinhamadi" target="_blank">See project</a> */}
               </div>
             </div>
           </div>
@@ -55,7 +55,7 @@ class Projects extends React.Component {
               Tout est question de score, de nombre de coups, pour déplacer quelques cases à leur place.</p>
               </div>
               <div class="panel-footer">
-                <a href="https://github.com/Housseinhamadi" target="_blank">See project</a>
+                {/* <a href="https://github.com/Housseinhamadi" target="_blank">See project</a> */}
               </div>
             </div>
           </div>
@@ -74,7 +74,7 @@ class Projects extends React.Component {
                  </p>
               </div>
               <div class="panel-footer">
-                <a href="https://github.com/Housseinhamadi" target="_blank">See project</a>
+                {/* <a href="https://github.com/Housseinhamadi" target="_blank">See project</a> */}
               </div>
             </div>
           </div>
@@ -90,7 +90,7 @@ class Projects extends React.Component {
                 <p> Réseau de configuration, Unix Configuration entre clients et serveurs</p>
               </div>
               <div class="panel-footer">
-                <a href="https://github.com/Housseinhamadi" target="_blank">See project</a>
+                {/* <a href="https://github.com/Housseinhamadi" target="_blank">See project</a> */}
               </div>
             </div>
           </div>
@@ -110,7 +110,7 @@ class Projects extends React.Component {
                        à l'équipe pour répondre et le résultat sera obtenu sous forme de schéma</p>
               </div>
               <div class="panel-footer">
-                <a href="https://github.com/Housseinhamadi" target="_blank">See project</a>
+                {/* <a href="https://github.com/Housseinhamadi" target="_blank">See project</a> */}
               </div>
             </div>
           </div>
@@ -130,7 +130,7 @@ class Projects extends React.Component {
                   l'appel et pourrait aller discuter avec le client.</p>
               </div>
               <div class="panel-footer">
-                <a href="https://github.com/Housseinhamadi" target="_blank">See project</a>
+                {/* <a href="https://github.com/Housseinhamadi" target="_blank">See project</a> */}
               </div>
             </div>
           </div>
@@ -146,7 +146,7 @@ class Projects extends React.Component {
                 Avec cette application l’utilisateur peut réserver un livre et toutes les informations de chaque livre.</p>
               </div>
               <div class="panel-footer">
-                See project
+                {/* See project */}
               </div>
             </div>
           </div>
@@ -158,13 +158,13 @@ class Projects extends React.Component {
               </div>
 
               <div class="panel-body proPanels">
-                <p> Data science (big data), anaconda, python.
+                <p> L'objectif de ce projet et de voir quel est le principal facteur de suicide?, pour cela j'ai utilise tableau public pour visualise et annalyse les resulta.
 
                  </p>
               </div>
               <div class="panel-footer">
-                see project
-               </div>
+                {/* see project */}
+              </div>
             </div>
 
           </div >
@@ -180,7 +180,23 @@ class Projects extends React.Component {
                      </p>
               </div>
               <div class="panel-footer">
-                <a href="https://github.com/Housseinhamadi" target="_blank">See project</a>
+                {/* <a href="https://github.com/Housseinhamadi" target="_blank">See project</a> */}
+              </div>
+            </div>
+          </div>
+          <div class="col-sm-2">
+            <div class="panel panel-default text-center">
+              <div class="panel-heading  header">
+                <b class="textsize">Projet IOT </b>
+              </div>
+
+
+              <div class="panel-body proPanels">
+                <p>Crée une application mobile pour connecter avec Arduino et gère plusieurs capteur(température, distance...)
+                     </p>
+              </div>
+              <div class="panel-footer">
+                {/* <a href="https://github.com/Housseinhamadi" target="_blank">See project</a> */}
               </div>
             </div>
           </div>
@@ -196,7 +212,25 @@ class Projects extends React.Component {
                   Java<br />Enregistrer sa voix sur l’ordinateur, la même personne pourra ensuite se reconnecter facilement pour se faire reconnaitre.</p>
               </div>
               <div class="panel-footer">
-                <a href="https://github.com/Housseinhamadi" target="_blank">See project</a>
+                {/* <a href="https://github.com/Housseinhamadi" target="_blank">See project</a> */}
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col-sm-2">
+            <div class="panel panel-default text-center">
+              <div class="panel-heading header">
+                <b class="textsize">Conversion des prospects en clients</b>
+              </div>
+
+
+              <div class="panel-body proPanels">
+                <p>
+                  l'objectif est de créé un modèle machine learning pour converse des prospects en clients.</p>
+              </div>
+              <div class="panel-footer">
+                {/* <a href="https://github.com/Housseinhamadi" target="_blank">See project</a> */}
               </div>
             </div>
           </div>

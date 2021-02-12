@@ -17,9 +17,12 @@ class Header extends React.Component {
           </div>
           <div class="collapse navbar-collapse little" id="myNavbar">
             <ul class="nav navbar-nav navbar-right blacked">
+              <li><a href="#experience" class="blacked">Expérience professionnelle</a></li>
               <li><a href="#project" class="blacked">Projets</a></li>
+              <li><a href="#certification" class="blacked" >certification</a></li>
               <li><a href="#skills" class="blacked" >Compétences</a></li>
               <li><a href="#contact" class="blacked" >Contact</a></li>
+
 
             </ul>
           </div>

@@ -7,6 +7,9 @@ import WhoAmI from "./WhoAmI"
 import Houssein from "./houssein.jpg"
 import Paris8 from "./Images/Paris8.png"
 import LU from "./Images/LU.jpeg"
+import Experience from './Experience'
+import Certification from './certification'
+
 
 
 class MainBody extends React.Component {
@@ -18,7 +21,7 @@ class MainBody extends React.Component {
             <div class="col-sm-6">
               <h1>HOUSSEIN HAMADI</h1>
               <img src={Houssein} class="img-circle" width="250px" height="250px" /><br /><br />
-              <h3>Développeur Full Stack</h3><hr width="50%" />
+              <h3>M2 Ingénierie en intelligence artificielle</h3><hr width="50%" />
               <a href="https://housseincv.000webhostapp.com/HousseinHamadiCV-English.pdf" target="blacked" class="doCV" download>Pour Télécharger mon CV en Anglais</a><hr width="50%" />
               <a href="https://housseincv.000webhostapp.com/HousseinHamadiCV.pdf" target="blacked" class="doCV" download>Pour Télécharger mon CV en Français</a><hr width="50%" />
             </div>
@@ -36,7 +39,10 @@ class MainBody extends React.Component {
           </div>
         </div>
         <WhoAmI />
+        <Experience />
         <Projects />
+        <Certification />
+
         <Skills />
       </div>
     )
