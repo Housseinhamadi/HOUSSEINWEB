@@ -234,6 +234,23 @@ class Projects extends React.Component {
               </div>
             </div>
           </div>
+          <div class="col-sm-2">
+            <div class="panel panel-default text-center">
+              <div class="panel-heading header">
+                <b class="textsize"><a href="https://housseincv.000webhostapp.com/Nanotechnology_in_cancer_treatment.pdf" target="_blank">Cliquez ici pour voir mon premier article</a></b>
+              </div>
+              <div class="panel-body proPanels">
+                <p>
+                  Nanotechnology in cancer treatment</p>
+              </div>
+              <div class="panel-footer">
+                {/* <a href="https://github.com/Housseinhamadi" target="_blank">See project</a> */}
+              </div>
+
+
+
+            </div>
+          </div>
         </div>
       </div>
     )
